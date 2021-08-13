@@ -1,82 +1,172 @@
 \begin{thebibliography}{10}
 
-\bibitem{des:tex}
-Jacques D{\'e}sarm{\'e}nien.
-\newblock How to run {\TeX} in french.
-\newblock Technical Report SATN-CS-1013, Computer Science Department, Stanford
-  University, Stanford, California, August 1984.
+\bibitem{Betaflight}
+Betaflight 3.4.
+\newblock \url{https://github.com/betaflight/betaflight}.
 
-\bibitem{fuchs:dvi0}
-David Fuchs.
-\newblock The format of {\TeX}'s {DVI} files version 1.
-\newblock {\em TUGboat}, 2(2):12--16, July 1981.
+\bibitem{plasmatree}
+Plasmatree pid-analyzer.
+\newblock \url{https://github.com/Plasmatree/PID-Analyzer}.
 
-\bibitem{fuchs:dvi}
-David Fuchs.
-\newblock Device independent file format.
-\newblock {\em TUGboat}, 3(2):14--19, October 1982.
+\bibitem{aastrom2006advanced}
+Karl~Johan {\AA}str{\"o}m, Tore H{\"a}gglund, and Karl~J Astrom.
+\newblock {\em Advanced PID control}, volume 461.
+\newblock ISA-The Instrumentation, Systems, and Automation Society Research
+  Triangle~…, 2006.
 
-\bibitem{furuta:pctex}
-Richard~K. Furuta and Pierre~A. MacKay.
-\newblock Two {\TeX} implementations for the {IBM PC}.
-\newblock {\em Dr. Dobb's Journal}, 10(9):80--91, September 1985.
+\bibitem{aastrom2010feedback}
+Karl~Johan {\AA}str{\"o}m and Richard~M Murray.
+\newblock {\em Feedback systems: an introduction for scientists and engineers}.
+\newblock Princeton university press, 2010.
 
-\bibitem{knuth:web}
-Donald~E. Knuth.
-\newblock The {WEB} system for structured documentation, version 2.3.
-\newblock Technical Report STAN-CS-83-980, Computer Science Department,
-  Stanford University, Stanford, California, September 1983.
+\bibitem{bhosalemathematical}
+Mr~Rahul~Abasaheb Bhosale, Divya Padmanabhan, and Shishirkumar Kadam.
+\newblock Mathematical modeling and simulation of quadcopter-uav using pid
+  controller.
 
-\bibitem{knuth:tex}
-Donald~E. Knuth.
-\newblock {\em The {\TeX} Book}.
-\newblock Addison-Wesley, Reading, Massachusetts, 1984.
-\newblock Reprinted as Vol. A of {\it Computers \& Typesetting\/}, 1986.
+\bibitem{bouabdallah2004design}
+Samir Bouabdallah, Pierpaolo Murrieri, and Roland Siegwart.
+\newblock Design and control of an indoor micro quadrotor.
+\newblock In {\em IEEE International Conference on Robotics and Automation,
+  2004. Proceedings. ICRA'04. 2004}, volume~5, pages 4393--4398. IEEE, 2004.
 
-\bibitem{knuth:lp}
-Donald~E. Knuth.
-\newblock Literate programming.
-\newblock {\em The Computer Journal}, 27(2):97--111, May 1984.
+\bibitem{castillo2005experimental}
+Pedro Castillo, Rogelio Lozano, and Alejandro Dzul.
+\newblock Experimental implementation of linear and nolinear control laws.
+\newblock {\em IEEE Control System Magazine}, pages 45--55, 2005.
 
-\bibitem{knuth:tor}
-Donald~E. Knuth.
-\newblock A torture test for {\TeX}, version 1.3.
-\newblock Technical Report STAN-CS-84-1027, Computer Science Department,
-  Stanford University, Stanford, California, November 1984.
+\bibitem{flightcontroller}
+Dominic Clifton.
+\newblock Seriously pro racing f3 flight controller manual (revision 4), 2015.
 
-\bibitem{knuth:pgm}
-Donald~E. Knuth.
-\newblock {\em {\TeX}: The Program}, volume~B of {\em Computers \&
-  Typesetting}.
-\newblock Addison-Wesley, Reading, Massachusetts, 1986.
+\bibitem{documentationsimulation}
+Simulink Documentation.
+\newblock Simulation and model-based design.
+\newblock \url{https://www.mathworks.com/products/simulink.html}, 2020.
 
-\bibitem{lamport:latex}
-Leslie Lamport.
-\newblock {\em {\LaTeX}: A Document Preparation System. User's Guide and
-  Reference Manual}.
-\newblock Addison-Wesley, Reading, Massachusetts, 1986.
+\bibitem{fantoni2002non}
+Isabelle Fantoni and Rogelio Lozano.
+\newblock {\em Non-linear control for underactuated mechanical systems}.
+\newblock Springer Science \& Business Media, 2002.
 
-\bibitem{patashnik:bibtex}
-Oren Patashnik.
-\newblock {\em Bib{\TeX}ing}.
-\newblock Computer Science Department, Stanford University, Stanford,
-  California, January 1988.
-\newblock Available in the Bib{\TeX} release.
+\bibitem{garcia2006modelling}
+Pedro~Castillo Garcia, Rogelio Lozano, and Alejandro~Enrique Dzul.
+\newblock {\em Modelling and control of mini-flying machines}.
+\newblock Springer Science \& Business Media, 2006.
 
-\bibitem{patashnik:bibhax}
-Oren Patashnik.
-\newblock {\em Designing Bib{\TeX} Styles}.
-\newblock Computer Science Department, Stanford University, January 1988.
+\bibitem{ghazbi2016quadrotors}
+S~Norouzi Ghazbi, Yasaman Aghli, M~Alimohammadi, and Ali~Akbar Akbari.
+\newblock Quadrotors unmanned aerial vehicles: A review.
+\newblock {\em International Journal on Smart Sensing \& Intelligent Systems},
+  9(1):309--333, 2016.
 
-\bibitem{samuel:tex}
-Arthur~L. Samuel.
-\newblock First grade {\TeX}: A beginner's {\TeX} manual.
-\newblock Technical Report SATN-CS-83-985, Computer Science Department,
-  Stanford University, Stanford, California, November 1983.
+\bibitem{hdgglund1995pid}
+Tore Hdgglund.
+\newblock Pid controllers.
+\newblock 1995.
 
-\bibitem{spivak:ams}
-Michael~D. Spivak.
-\newblock {\em The Joy of {\TeX}}.
-\newblock American Mathematical Society, 1985.
+\bibitem{hundley1994future}
+Richard~O Hundley and Eugene~C Gritton.
+\newblock Future technology-driven revolutions in military operations.
+\newblock {\em RAND Corporation, Document No. DB-110-ARPA}, 1994.
+
+\bibitem{kugelberg2016black}
+Ingrid Kugelberg.
+\newblock Black-box modeling and attitude control of a quadcopter, 2016.
+
+\bibitem{luis2016design}
+Carlos Luis and J{\'e}r{\^o}me~Le Ny.
+\newblock Design of a trajectory tracking controller for a nanoquadcopter.
+\newblock {\em arXiv preprint arXiv:1608.05786}, 2016.
+
+\bibitem{luukkonen2011modelling}
+Teppo Luukkonen.
+\newblock Modelling and control of quadcopter.
+\newblock {\em Independent research project in applied mathematics, Espoo}, 22,
+  2011.
+
+\bibitem{transmitter}
+Flysky~RC model~technology co.
+\newblock Fs-i6 digital proportional radio control system instruction manual,
+  2015-2016.
+
+\bibitem{mueller2009birth}
+Thomas~J Mueller.
+\newblock On the birth of micro air vehicles.
+\newblock {\em International Journal of Micro Air Vehicles}, 1(1):1--12, 2009.
+
+\bibitem{olfati2001nonlinear}
+Reza Olfati-Saber.
+\newblock {\em Nonlinear control of underactuated mechanical systems with
+  application to robotics and aerospace vehicles}.
+\newblock PhD thesis, Massachusetts Institute of Technology, 2001.
+
+\bibitem{opencoursewarekinematics}
+MIT OpenCourseWare.
+\newblock Kinematics of moving frames.
+\newblock \url{shorturl.at/qRSVW}.
+
+\bibitem{parker2013building}
+Dana~T Parker.
+\newblock {\em Building victory: aircraft manufacturing in the Los Angeles area
+  in World War II}.
+\newblock DT Parker, 2013.
+
+\bibitem{patrick2009industrial}
+Dale~R Patrick and Stephen~W Fardo.
+\newblock {\em Industrial process control systems}.
+\newblock The Fairmont Press, Inc., 2009.
+
+\bibitem{raffo2010integral}
+Guilherme~V Raffo, Manuel~G Ortega, and Francisco~R Rubio.
+\newblock An integral predictive/nonlinear h control structure for a
+  quadrotor helicopter.
+\newblock {\em Automatica}, 46(1):29--39, 2010.
+
+\bibitem{reizenstein2017position}
+Axel Reizenstein.
+\newblock Position and trajectory control of a quadcopter using pid and lq
+  controllers, 2017.
+
+\bibitem{renfrew2004introduction}
+Alasdair Renfrew.
+\newblock Introduction to robotics: Mechanics and control.
+\newblock {\em International Journal of Electrical Engineering Education},
+  41(4):388, 2004.
+
+\bibitem{foster2019}
+Frost~\& Sullivan.
+\newblock {\em Global Market for Counter Unmanned Aircraft Systems to Exceed 2
+  billion by 2024}, 2019.
+
+\bibitem{tournier2006estimation}
+Glenn Tournier, Mario Valenti, Jonathan How, and Eric Feron.
+\newblock Estimation and control of a quadrotor vehicle using monocular vision
+  and moire patterns.
+\newblock In {\em AIAA Guidance, Navigation, and Control Conference and
+  Exhibit}, page 6711, 2006.
+
+\bibitem{visioli2006practical}
+Antonio Visioli.
+\newblock {\em Practical PID control}.
+\newblock Springer Science \& Business Media, 2006.
+
+\bibitem{wang2020pid}
+Liuping Wang.
+\newblock {\em PID Control System Design and Automatic Tuning using
+  MATLAB/Simulink}.
+\newblock John Wiley \& Sons, 2020.
+
+\bibitem{wierema2008design}
+Menno Wierema.
+\newblock Design, implementation and flight test of indoor navigation and
+  control system for a quadrotor uav.
+\newblock {\em Master of Science in Aerospace Engineering at Delft University
+  of Technology}, 2008.
+
+\bibitem{ziegler1942optimum}
+John~G Ziegler, Nathaniel~B Nichols, et~al.
+\newblock Optimum settings for automatic controllers.
+\newblock {\em trans. ASME}, 64(11), 1942.
 
 \end{thebibliography}
